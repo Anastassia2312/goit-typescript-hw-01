@@ -1,15 +1,14 @@
 {
   "name": "goit-typescript-hw-01",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "web-dev-server --node-resolve --open --watch"
   },
   "keywords": [],
   "author": "Anastasia Polishchuk <23122000na@gmail.com>",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
-    "@web/dev-server": "^0.4.4"
+    "@web/dev-server": "^0.2.5"
   }
 }
